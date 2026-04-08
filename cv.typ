@@ -182,11 +182,36 @@
   )
 
   #edu(
-    institution: [Federal University of Paraná (UFPR)],
+    institution: [Pontifical Catholic University of Paraná (PUCPR)],
     location: [Curitiba, Brazil],
-    degree: [Bachelor's degree in Electrical Engineering],
+    degree: [Bachelor's degree in Mechatronic Engineering],
     dates: [January 2019 --- december 2023],
   )
   - Machine Learning and Computer Vision 
   - Thesis title: "Development and implementations of a monitoring system using neural networks"
 ]
+
+== Projects
+
+let project(
+  title: "",
+  description: "",
+  link: none,
+) = [
+  #strong(title) \
+  description \
+  if link != none { my-link("https://", link) } else { empty() }
+]
+
+project(
+  title: "
+Time-Series-Transformer-TST-For-Energy-Forecasting",
+  description: "Development of a Time Series Transformer (TST) model for energy forecasting, which is a deep learning architecture designed to capture temporal dependencies in time series data. This project involves the implementation and training of the TST model on energy consumption data to predict future energy demand, which can be crucial for optimizing energy generation and distribution.",
+  link: "https://github.com/Graunke/Time-Series-Transformer-TST-"
+)
+
+project(
+  title: "StSEL-for-Energy-Generation-Forecasting",
+  description: "Manual development of a Stacking Ensemble Learning (StSEL) model for energy generation forecasting, which combines multiple machine learning models to improve the accuracy of predictions. This project involves the selection and training of base models, as well as the implementation of a meta-model to combine their outputs and generate final forecasts.",
+  link: "https://github.com/Graunke/SEL-for-Energy-Generation-Forecasting"
+)
