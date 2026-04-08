@@ -200,9 +200,8 @@
 ) = [
     #strong(title) #h(1fr) \
     #description #h(1fr)
-    #if link != none {
-      my-link("https://", link)
-    }
+    #link(link)
+    
   ]
 
 #project(
