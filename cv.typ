@@ -71,7 +71,7 @@
 #strong[Backend]:  Flask \
 #strong[Databases]: SQL, Oracle \
 #strong[Data processing]: NumPy, Pandas, OpenCV, PyTorch, Tensorflow \
-#strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting,  \
+#strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting  \
 #strong[Environment tools]: Linux, Docker, Git, Bash \
 #strong[Languages]: Portuguese (native), English (fluent), German (intermediate)
 
