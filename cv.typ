@@ -45,7 +45,7 @@
         if body != none { body } else { destination }
       )
       #(
-        box("+55 41 9 9886 3007"),
+        box("+55 41 99886 3007"),
         box("Ingolstadt, Bayern, Germany"),
         my-link("mailto:", "mateus.barroso1311@gmail.com"),
         my-link("https://", "github.com/Graunke"),
