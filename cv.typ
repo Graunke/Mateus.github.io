@@ -201,7 +201,7 @@
     #strong(title) #h(1fr) \
     #description #h(1fr)
     #if link != none {
-      'my-link'("https://", link, "View on GitHub")
+      my-link("https://", link)
     }
   ]
 
