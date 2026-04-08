@@ -1,6 +1,6 @@
 #let name = "Mateus Barroso"
 #let accent-color = rgb("#26428b")
-#let spacing = 0.8cm
+#let spacing = 0.4cm
 
 
 #set document(author: name, title: name)
