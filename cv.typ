@@ -48,7 +48,6 @@
         box("+55 41 9 9886 3007"),
         box("Ingolstadt, Bayern, Germany"),
         my-link("mailto:", "mateus.barroso1311@gmail.com"),
-        my-link("https://", "github.com/Graunke"),
         my-link("https://", "linkedin.com/in/mateus-uriel/"),
       ).join(" | ")
     ]
