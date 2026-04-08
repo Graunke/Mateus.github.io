@@ -198,10 +198,12 @@
   description: "",
   link: none,
 ) = [
-  #strong(title) \
-  description \
-  if link != none { my-link("https://", link) } else { empty() }
-]
+    #strong(title) #h(1fr) \
+    #description #h(1fr)
+    #if link != none {
+      my-link("https://", link, "View on GitHub")
+    }
+  ]
 
 #project(
   title: [Time-Series-Transformer-TST-For-Energy-Forecasting],
@@ -210,7 +212,7 @@
 )
 
 #project(
-  title: [StSEL-for-Energy-Generation-Forecasting],
+  title: [SEL-for-Energy-Generation-Forecasting],
   description: [Manual development of a Stacking Ensemble Learning (StSEL) model for energy generation forecasting, which combines multiple machine learning models to improve the accuracy of predictions. This project involves the selection and training of base models, as well as the implementation of a meta-model to combine their outputs and generate final forecasts.],
   link: "https://github.com/Graunke/SEL-for-Energy-Generation-Forecasting"
 )
