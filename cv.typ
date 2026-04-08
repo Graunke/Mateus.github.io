@@ -45,7 +45,7 @@
         if body != none { body } else { destination }
       )
       #(
-        box("+55 41 9 9886 3007),
+        box("+55 41 9 9886 3007"),
         box("Ingolstadt, Bayern, Germany"),
         my-link("mailto:", "mateus.barroso1311@gmail.com"),
         my-link("https://", "github.com/Graunke"),
@@ -139,7 +139,6 @@
     operators on when they need to check the machine details and allowing them to avoid mistakes and attend the TAKT time. 
   #job(
     titles: (
-      ,
       [Manufacturing Engineer Intern],
     ),
     dates: (
