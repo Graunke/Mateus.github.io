@@ -196,7 +196,7 @@
 #let project(
   title: "",
   description: "",
-  link: none,
+  link: "",
 ) = [
     #strong(title) #h(1fr) \
     #description #h(1fr)
@@ -208,11 +208,11 @@
 #project(
   title: [Time-Series-Transformer-TST-For-Energy-Forecasting],
   description: [Development of a Time Series Transformer (TST) model for energy forecasting, which is a deep learning architecture designed to capture temporal dependencies in time series data. This project involves the implementation and training of the TST model on energy consumption data to predict future energy demand, which can be crucial for optimizing energy generation and distribution.],
-  my-link("https://", "https://github.com/Graunke/Time-Series-Transformer-TST-")
+  link: "https://github.com/Graunke/Time-Series-Transformer-TST-"
 )
 
 #project(
   title: [SEL-for-Energy-Generation-Forecasting],
   description: [Manual development of a Stacking Ensemble Learning (StSEL) model for energy generation forecasting, which combines multiple machine learning models to improve the accuracy of predictions. This project involves the selection and training of base models, as well as the implementation of a meta-model to combine their outputs and generate final forecasts.],
-  my-link("https://", "github.com/Graunke/SEL-for-Energy-Generation-Forecasting")
+  link: "https://github.com/Graunke/SEL-for-Energy-Generation-Forecasting"
 )
