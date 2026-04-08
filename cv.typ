@@ -142,7 +142,7 @@
       [Manufacturing Engineer Intern],
     ),
     dates: (
-      [March 2021 --- November 2023]
+      [March 2021 --- November 2023],
     ),
     company: [Caterpillar Inc.],
     location: [Campo Largo, Brazil],

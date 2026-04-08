@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.1.2"
+    "astro": "^6.1.2",
+    "typst": "^0.10.0-8"
   }
 }
