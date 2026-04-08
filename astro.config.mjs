@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  // If this repo is <username>.github.io, Pages serves from domain root.
-  // If you later publish from a project repo, set `site` and `base` accordingly.
+  // Base-path safe templates are used (import.meta.env.BASE_URL).
+  // If you publish as a USER/ORG Pages repo (<username>.github.io), keep base as default.
+  // If you publish as a PROJECT Pages repo, set e.g. `base: '/<repo>/'`.
 });
