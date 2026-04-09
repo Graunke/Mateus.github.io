@@ -55,9 +55,12 @@
 
     == Summary
 
-    AI/Machine Learning engineer pursuing a Master's double degree in Electrical and Automotive
-    Engineering, and fascinated by how computers work.  --- I'd be
-    very happy to work in a team of talented individuals whose interests line up with mine.
+   Mechatronics engineer, with enphasis in computer vision, pursuing a Master's double degree in 
+   Electrical and Automotive Engineering, and a huge fan of formula 1. As a computer vision enthusiast, im fascinated
+   about real world applications and the advantages they offer, be it in autonomous vehicles 
+   or on shop floor processes. I have very good experience with industrial data analysis and proccess optimization.
+   Lately i've been interested in neuromorphic computing and driver monitoring systems, building a system that is capable of achieving good accuracy with low latency and power consumption.
+   I'd be very happy to work in a team of talented individuals whose interests line up with mine.
 
   ],
   box(clip: true, radius: 50%, image("public/me.jpg", width: 18em))
@@ -71,7 +74,7 @@
 #strong[Backend]:  Flask \
 #strong[Databases]: SQL, Oracle \
 #strong[Data processing]: NumPy, Pandas, OpenCV, PyTorch, Tensorflow \
-#strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting  \
+#strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting, Computer Vision \
 #strong[Environment tools]: Linux, Docker, Git, Bash \
 #strong[Languages]: Portuguese (native), English (fluent), German (intermediate)
 
@@ -135,7 +138,7 @@
   - Analyzed data from shop floor machines to detect anomalies and predict failures.
   - Monitoring of main KPIs of manufacturing and Maintenance processes, such as Overall Equipment Effectiveness (OEE) and Mean Time Between Failures (MTBF).
   - Implementation and automation of data flows and dashboards for data visualization and reporting.
-  - improvemento on the data visualization for the Manufacturing Execution System (MES) used in the factory, reducing the time spent by
+  - improvement on the data visualization for the Manufacturing Execution System (MES) used in the factory, reducing the time spent by
     operators on when they need to check the machine details and allowing them to avoid mistakes and attend the TAKT time. 
   #job(
     titles: (
@@ -226,8 +229,35 @@
 #let course(
   title: "",
   institution: "",
+  description: "",
   date: "",
 ) = [
-  #institution #h(1fr) #date
+  #strong(title) \
+  #institution #h(1fr) #date \
+  #description \
+
 ]
 
+#course(
+  title: [Agile Methodologies],
+  date: [2025],
+  institution: [Caterpillar Inc.],
+  description: [Training on Agile methodologies and practices for software development and project management.]
+
+)
+
+#course(
+  title: [Data Science and Machine Learning],
+  date: [2024],
+  institution: [UFPR],
+  description: [Training on data science and machine learning such as generative AI, Neural Networks and data analysis using Python and its libraries, such as NumPy, Pandas, PyTorch and TensorFlow.]
+
+)
+
+#course(
+  title: [Six Sigma Green Belt],
+  date: [2023],
+  institution: [Caterpillar Inc.],
+  description: [Training on Six Sigma methodologies and tools for process improvement and quality management.]
+
+)
