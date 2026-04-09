@@ -232,8 +232,8 @@
   description: "",
   date: "",
 ) = [
-  #strong(title) \
-  #institution #h(1fr) #date \
+  #strong(title) #h(1fr) #strong(date) \
+  #institution \
   #description \
 
 ]
