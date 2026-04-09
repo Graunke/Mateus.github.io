@@ -201,8 +201,6 @@
   ) = [
     #strong(title) #h(1fr) \
     #description #h(1fr)
-    #link(link)
-    
   ]
 
 #project(
@@ -219,13 +217,3 @@
 
 ]
 
-== Awards
-
-#strong[2024 -- International Collegiate Programming Contest (ICPC) South America / Brazil Finals -- Highest Honor] \
-23rd place out of 65 teams
-
-#strong[2024 -- Professor Plínio Alves Monteiro Tourinho Award -- Gold medal] \
-Top of the class in Electrical Engineering: academic performance index 0.9858/1.0
-
-#strong[2018 -- Brazilian Public School Mathematics Olympiad (OBMEP) -- Bronze medal] \
-Level 3 -- private school
