@@ -72,7 +72,7 @@
 #strong[Programming languages]:  C++, Python, JavaScript, TypeScript \
 #strong[Frontend]: React, React Native\
 #strong[Backend]:  Flask \
-#strong[Databases]: SQL, Oracle \
+#strong[Databases]: SQL, Oracle, Snowflakes \
 #strong[Data processing]: NumPy, Pandas, OpenCV, PyTorch, Tensorflow \
 #strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting, Computer Vision \
 #strong[Environment tools]: Linux, Docker, Git, Bash \
