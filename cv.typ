@@ -226,6 +226,12 @@
   url: "https://github.com/Graunke/SEL-for-Energy-Generation-Forecasting"
 )
 
+#project(
+  title: [PUCPR Formula SAE Team],
+  description: [Head of powertrain of the Formula SAE team, responsible for the development and implementation of the powertrain system of the cas.],
+  url: "https://www.instagram.com/pucpr_racing/"
+)
+
 ]
 
 == Qualifications
