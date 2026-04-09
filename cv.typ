@@ -193,11 +193,12 @@
 
 == Projects
 
-#let project(
-  title: "",
-  description: "",
-  link: "",
-) = [
+#[
+  #let project(
+    title: "",
+    description: "",
+    link: "",
+  ) = [
     #strong(title) #h(1fr) \
     #description #h(1fr)
     #link(link)
@@ -215,3 +216,16 @@
   description: [Manual development of a Stacking Ensemble Learning (StSEL) model for energy generation forecasting, which combines multiple machine learning models to improve the accuracy of predictions. This project involves the selection and training of base models, as well as the implementation of a meta-model to combine their outputs and generate final forecasts.],
   link: "https://github.com/Graunke/SEL-for-Energy-Generation-Forecasting"
 )
+
+]
+
+== Awards
+
+#strong[2024 -- International Collegiate Programming Contest (ICPC) South America / Brazil Finals -- Highest Honor] \
+23rd place out of 65 teams
+
+#strong[2024 -- Professor Plínio Alves Monteiro Tourinho Award -- Gold medal] \
+Top of the class in Electrical Engineering: academic performance index 0.9858/1.0
+
+#strong[2018 -- Brazilian Public School Mathematics Olympiad (OBMEP) -- Bronze medal] \
+Level 3 -- private school
