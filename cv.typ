@@ -55,7 +55,7 @@
 
     == Summary
 
-   Mechatronics engineer, with enphasis in computer vision, pursuing a Master's double degree in 
+   Mechatronic engineer, with enphasis in computer vision, pursuing a Master's double degree in 
    Electrical and Automotive Engineering, and a huge fan of formula 1. As a computer vision enthusiast, im fascinated
    about real world applications and the advantages they offer, be it in autonomous vehicles 
    or on shop floor processes. I have very good experience with industrial data analysis and proccess optimization.
