@@ -271,3 +271,11 @@
   description: [Training on Six Sigma methodologies and tools for process improvement and quality management.]
 
 )
+
+#course(
+  title: [Linear Algebra mentoring],
+  date: [2019],
+  institution: [PUCPR],
+  description: [Mentoring on linear algebra for students of the mechatronic engineering course.]
+
+)
