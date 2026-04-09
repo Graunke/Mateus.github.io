@@ -63,7 +63,13 @@
    I'd be very happy to work in a team of talented individuals whose interests line up with mine.
 
   ],
-  box(clip: true, radius: 50%, image("public/me.jpg", width: 18em))
+  align(center, box(
+    width: 18em,
+    height: 18em,
+    clip: true,
+    radius: 50%,
+    align(center, image("public/me.jpg", width: 18em, height: 18em, fit: "cover")),
+  ))
 )
 
 
