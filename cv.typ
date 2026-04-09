@@ -138,8 +138,6 @@
   - Analyzed data from shop floor machines to detect anomalies and predict failures.
   - Monitoring of main KPIs of manufacturing and Maintenance processes, such as Overall Equipment Effectiveness (OEE) and Mean Time Between Failures (MTBF).
   - Implementation and automation of data flows and dashboards for data visualization and reporting.
-  - improvement on the data visualization for the Manufacturing Execution System (MES) used in the factory, reducing the time spent by
-    operators on when they need to check the machine details and allowing them to avoid mistakes and attend the TAKT time. 
   #job(
     titles: (
       [Manufacturing Engineer Intern],
