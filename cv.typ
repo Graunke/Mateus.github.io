@@ -228,7 +228,7 @@
 
 ]
 
-== Courses
+== Qualifications
 
 #let course(
   title: "",
