@@ -55,12 +55,9 @@
 
     == Summary
 
-   Mechatronic engineer, with enphasis in computer vision, pursuing a Master's double degree in 
-   Electrical and Automotive Engineering, and a huge fan of formula 1. As a computer vision enthusiast, im fascinated
-   about real world applications and the advantages they offer, be it in autonomous vehicles 
-   or on shop floor processes. I have very good experience with industrial data analysis and proccess optimization.
-   Lately i've been interested in neuromorphic computing and driver monitoring systems, building a system that is capable of achieving good accuracy with low latency and power consumption.
-   I'd be very happy to work in a team of talented individuals whose interests line up with mine.
+  Mechatronics engineer specializing in computer vision and machine learning, 
+  currently pursuing a double Master’s in Electrical and Automotive Engineering. 
+  Experience in industrial data analysis, time-series forecasting, and driver monitoring systems using deep learning and neuromorphic computing.
 
   ],
   align(center, box(
@@ -78,9 +75,9 @@
 #strong[Programming languages]:  C++, Python, JavaScript, TypeScript \
 #strong[Frontend]: React, React Native\
 #strong[Backend]:  Flask \
-#strong[Databases]: SQL, Oracle, Snowflakes \
-#strong[Data processing]: NumPy, Pandas, OpenCV, PyTorch, Tensorflow \
-#strong[AI/ML]: Stacking Ensamble Methods, Transformer Based Models, RAG, Time Series Forecasting, Computer Vision \
+#strong[Databases]: SQL, Oracle, Snowflake \
+#strong[Data processing]: NumPy, Pandas, OpenCV, PyTorch, TensorFlow \
+#strong[AI/ML]: Stacking Ensemble Methods, Transformer-based Models, RAG, Time Series Forecasting, Computer Vision \
 #strong[Environment tools]: Linux, Docker, Git, Bash \
 #strong[Languages]: Portuguese (native), English (fluent), German (intermediate)
 
@@ -109,13 +106,13 @@
     company: [AI Motion - Technische Hochschule Ingolstadt],
     location: [Ingolstadt, Germany],
   )
-  - Development of time series forecasting algorithms for reducing the ammount of tests need to calibrat
+  - Development of time series forecasting algorithms for reducing the amount of tests needed to calibrate
     a hydrobrake system. This project uses a combination of physics-based models and data-driven models to achieve accurate predictions of the system's behavior,
-    which allows to reduce the time and cost of the calibration process.
-  - Development of in cabin monitoring system using neuromorphic sensors, spiking neural networks and Reservoir Computing
-    for drownsiness detection. This project involves the use of neuromorphic sensors to capture data from the cabin,
-    and the development of spiking neural networks and Reservoir Computing models to process this data and detect signs of drownsiness in real-time.
-  - Development of a company personal GPT-based assistant for automating the generation of reports and documentation, which allows to save time and reduce the ammount of manual work needed for these tasks.
+    which reduces the time and cost of the calibration process.
+  - Development of an in-cabin monitoring system using neuromorphic sensors, spiking neural networks, and Reservoir Computing
+    for drowsiness detection. This project involves the use of neuromorphic sensors to capture data from the cabin,
+    and the development of spiking neural networks and Reservoir Computing models to process this data and detect signs of drowsiness in real-time.
+  - Development of a company GPT-based assistant for automating the generation of reports and documentation, which helps save time and reduce the amount of manual work needed for these tasks.
 
 
   #job(
@@ -129,7 +126,7 @@
     location: [Ingolstadt, Germany],
   )
   - Development of point cloud processing algorithms for multimodal data processing in sign language recognition.
-  - In cabin monitoring system development with VLMs and CNNs for drownsiness detection.
+  - In-cabin monitoring system development with VLMs and CNNs for drowsiness detection.
 
   #job(
     titles: (
@@ -142,7 +139,7 @@
     location: [Campo Largo, Brazil],
   )
   - Analyzed data from shop floor machines to detect anomalies and predict failures.
-  - Monitoring of main KPIs of manufacturing and Maintenance processes, such as Overall Equipment Effectiveness (OEE) and Mean Time Between Failures (MTBF).
+  - Monitoring of key KPIs of manufacturing and maintenance processes, such as Overall Equipment Effectiveness (OEE) and Mean Time Between Failures (MTBF).
   - Implementation and automation of data flows and dashboards for data visualization and reporting.
   #job(
     titles: (
@@ -154,10 +151,10 @@
     company: [Caterpillar Inc.],
     location: [Campo Largo, Brazil],
   )
-  - In process validation of caterpillar machines' ECU, inclufing ECU flash and Hot test.
-  - Work on the implementation of a new type of in process validation inside the  factory,
-    which included the use of computer vision algorithm to inscpect the machines' assembly.
-  - Automation of data collection using pre-traind CV models at the painting line, which allowed to
+  - In-process validation of Caterpillar machines' ECUs, including ECU flashing and hot testing.
+  - Work on the implementation of a new type of in-process validation inside the factory,
+    which included the use of a computer vision algorithm to inspect the machines' assembly.
+  - Automation of data collection using pre-trained CV models at the painting line, which allowed us to
     train data-driven models for the prediction of paint quality and the detection of paint defects.
 ]
 
@@ -192,10 +189,10 @@
     institution: [Pontifical Catholic University of Paraná (PUCPR)],
     location: [Curitiba, Brazil],
     degree: [Bachelor's degree in Mechatronic Engineering],
-    dates: [January 2019 --- december 2023],
+    dates: [January 2019 --- December 2023],
   )
   - Machine Learning and Computer Vision 
-  - Thesis title: "Development and implementations of a monitoring system using neural networks"
+  - Thesis title: "Development and implementation of a monitoring system using neural networks"
 ]
 
 == Projects
@@ -228,7 +225,7 @@
 
 #project(
   title: [PUCPR Formula SAE Team],
-  description: [Head of powertrain of the Formula SAE team, responsible for the development and implementation of the powertrain system of the cas.],
+  description: [Head of powertrain of the Formula SAE team, responsible for the development and implementation of the powertrain system of the car.],
   url: "https://www.instagram.com/pucpr_racing/"
 )
 
@@ -260,7 +257,7 @@
   title: [Data Science and Machine Learning],
   date: [2024],
   institution: [UFPR],
-  description: [Training on data science and machine learning such as generative AI, Neural Networks and data analysis using Python and its libraries, such as NumPy, Pandas, PyTorch and TensorFlow.]
+  description: [Training on data science and machine learning, including generative AI, neural networks, and data analysis using Python and its libraries, such as NumPy, Pandas, PyTorch, and TensorFlow.]
 
 )
 
