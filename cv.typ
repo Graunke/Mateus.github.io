@@ -58,6 +58,12 @@
   Mechatronics engineer specializing in computer vision and machine learning, 
   currently pursuing a double Master’s in Electrical and Automotive Engineering. 
   Experience in industrial data analysis, time-series forecasting, and driver monitoring systems using deep learning and neuromorphic computing.
+  Enthusiastic about applying my skills to solve real-world problems and contribute to innovative projects in the industry.
+  I'd be very happy to work in a team of talented individuals whose interests line up with mine.
+  
+  #linebreak()
+  #linebreak()
+  #linebreak()
 
   ],
   align(center, box(
@@ -111,7 +117,7 @@
     which reduces the time and cost of the calibration process.
   - Development of an in-cabin monitoring system using neuromorphic sensors, spiking neural networks, and Reservoir Computing
     for drowsiness detection. This project involves the use of neuromorphic sensors to capture data from the cabin,
-    and the development of spiking neural networks and Reservoir Computing models to process this data and detect signs of drowsiness in real-time.
+    and the development of spiking neural networks and Reservoir Computing models to process this data and detect signs of drownsiness in real-time.
   - Development of a company GPT-based assistant for automating the generation of reports and documentation, which helps save time and reduce the amount of manual work needed for these tasks.
 
 
